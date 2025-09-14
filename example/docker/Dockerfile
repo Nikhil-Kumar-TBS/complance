@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.10
 MAINTAINER Bernard Van De Walle <bernard@aporeto.com>
 
 RUN mkdir -p /opt/trireme
